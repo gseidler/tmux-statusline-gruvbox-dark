@@ -18,3 +18,7 @@ if-shell '[ "$COLORTERM" = "truecolor" ]' \
 ## Screenshot
 
 <img src="images/screenshot.png" width="860px">
+
+## License
+
+MIT
